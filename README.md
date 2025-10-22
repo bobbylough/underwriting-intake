@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# Risk IOP MVP – Risk Intake and Orchestration Platform
+# Underwriting Intake Risk Calculator
 
 ## Problem Statement
 
@@ -19,7 +19,7 @@ The file requirements are as follows:
 
 ## Assumptions
 
-To keep the MVP focused and lightweight, several enterprise features are **assumed** to exist:
+To keep the MVP focused and lightweight, several features are **assumed** to exist:
 
 #### The Risk Models here would be seperate services rather than part of a mono repo, however there is no point in doing that for this prototype as they are currently just mock endpoints.
 
